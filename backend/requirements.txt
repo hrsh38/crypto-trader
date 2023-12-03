@@ -1,2 +1,4 @@
 flask
 pymonogo
+coinbase
+python-dotenv
